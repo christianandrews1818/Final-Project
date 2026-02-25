@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Non-slip loop knot diagram">
+  <rect width="100%" height="100%" fill="#0f1a33"></rect>
+  <text x="40" y="70" fill="#e7eefc" font-size="42" font-family="Arial">Non-Slip Loop Knot (Diagram)</text>
+  <text x="40" y="120" fill="#b8c4dd" font-size="26" font-family="Arial">Overhand knot → through eye → back through overhand → wraps → back through overhand</text>
+
+  <circle cx="960" cy="250" r="55" stroke="#7dd3fc" stroke-width="8" fill="none"></circle>
+  <text x="922" y="260" fill="#e7eefc" font-size="24" font-family="Arial">Eye</text>
+
+  <path d="M100 250 C 420 250, 700 250, 880 250" stroke="#e7eefc" stroke-width="10" fill="none"></path>
+  <path d="M880 250 C 830 200, 760 190, 720 225" stroke="#a7f3d0" stroke-width="10" fill="none"></path>
+  <path d="M720 225 C 680 260, 690 310, 740 325" stroke="#a7f3d0" stroke-width="10" fill="none"></path>
+  <text x="640" y="360" fill="#b8c4dd" font-size="22" font-family="Arial">Leave loop open for lure action</text>
+</svg>
