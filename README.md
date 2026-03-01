@@ -6,8 +6,7 @@ Beginner guide website covering:
 - Step-by-step instructions + diagrams
 
 ## Live Site
-(After GitHub Pages is enabled)
-https://YOUR-USERNAME.github.io/Final-Project/
+https://christianandrews1818.github.io/Final-Project/
 
 ## Structure
 - index.html — tutorials
